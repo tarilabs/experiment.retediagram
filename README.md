@@ -1,3 +1,7 @@
+# Archived in favour of https://github.com/kiegroup/drools/tree/master/drools-retediagram#readme
+Archived in favour of https://github.com/kiegroup/drools/tree/master/drools-retediagram#readme
+and the development is now fully merged inside the Drools repository.
+
 # drools-retediagram
 
 An experiment to plot Rete diagram, similar to `ReteDumper`, using Dot language format.
